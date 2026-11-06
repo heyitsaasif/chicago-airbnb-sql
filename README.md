@@ -1,1 +1,1 @@
-# SQL Practice
+# Chicago Airbnb SQL Guide
